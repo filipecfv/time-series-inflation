@@ -1,0 +1,5 @@
+Source: [[http://www.ipeadata.gov.br/Default.aspx][IpeaData]]
+
+Notebooks (nbviewer):
+- [[https://github.com/filipecfv/time-series-inflation/blob/main/01-Data-colection.ipynb][01 Colecting data]]
+- [[https://nbviewer.org/github/filipecfv/time-series-inflation/blob/main/02-Exploratory-Analysis.ipynb][02 Exploratory Analysis]]
